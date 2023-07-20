@@ -1,4 +1,6 @@
 # challenge14
+Github page https://kamacys.github.io/challenge14/
+
 Citations:
 https://github.com/vgangaprasad/plotly_challenge/blob/master/static/js/app.js
 https://codepen.io/plotly/pen/rxeZME
